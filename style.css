@@ -1,0 +1,9 @@
+body{
+    scroll-behavior: smooth;
+}
+section{
+    scroll-margin-top: 80px;
+}
+#home img{
+    border: 2px solid #030507;
+}
